@@ -1,0 +1,5 @@
+{"id": 0, "is_mcq": false, "gold": ["325*(1+325)"], "response": "105950", "correct": true}
+{"id": 1, "is_mcq": true, "gold": "F", "response": "I", "correct": false}
+{"id": 2, "is_mcq": false, "gold": ["143.224229233795", "2.32624773420025"], "response": "8/11", "correct": false}
+{"id": 3, "is_mcq": false, "gold": ["5/8"], "response": "5/8", "correct": true}
+{"id": 4, "is_mcq": true, "gold": "C", "response": "I", "correct": false}
